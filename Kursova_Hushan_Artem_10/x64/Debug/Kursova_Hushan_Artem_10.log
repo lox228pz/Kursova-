@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\MyForm.h(1101,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\MyForm.h(1356,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\MyForm.h(1361,27): warning C4101: error: неиспользованная локальная переменная
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\MyForm.h(1574,27): warning C4101: error: неиспользованная локальная переменная
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\MyForm.h(1589,34): warning C4244: аргумент: преобразование "double" в "const __int64", возможна потеря данных
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\MyForm.h(1234): warning C4715: KursovaHushanArtem10::MyForm::CalculateKomunalV: значение возвращается не при всех путях выполнения
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\MyForm.h(1213): warning C4715: KursovaHushanArtem10::MyForm::CalculateSMonthMoney: значение возвращается не при всех путях выполнения
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\MyForm.h(1158): warning C4715: KursovaHushanArtem10::MyForm::boxArrInit: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursova_Hushan_Artem_10.vcxproj -> C:\Polytexnic\KR\Kursova_Hushan_Artem_10\x64\Debug\Kursova_Hushan_Artem_10.exe

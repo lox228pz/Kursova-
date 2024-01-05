@@ -1,0 +1,4 @@
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\x64\Debug\Kursova_Hushan_Artem_10.vcxproj.AssemblyReference.cache
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\x64\Debug\KursovaHushanArtem10.MyForm.resources
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\x64\Debug\Kursova_Hushan_Artem_10.vcxproj.GenerateResource.cache
+C:\Polytexnic\KR\Kursova_Hushan_Artem_10\x64\Debug\Kursova_Hushan_Artem_10.exe

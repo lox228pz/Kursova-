@@ -1,0 +1,4 @@
+Summary Month Money: 1728
+Salary: 207.36
+Komunal: 224.64
+Podatki: 518.4
